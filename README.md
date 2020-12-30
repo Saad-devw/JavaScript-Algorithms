@@ -35,4 +35,8 @@
 
     EX:
     myFunc("hi my name is saad"); output = 'Hi My Name Is Saad'
+  9. wrie a function that repeats a string X times given by the user (app9.js).
 
+    EX:
+    myFunc("Hi",3); output = HiHiHi
+    myFunc("XO",5); output = XOXOXOXOXO
