@@ -40,3 +40,9 @@
     EX:
     myFunc("Hi",3); output = HiHiHi
     myFunc("XO",5); output = XOXOXOXOXO
+  10. write a function that returns if a str is a Digit or not (app10.js).
+
+    EX:
+    myFunc("5"); output = true
+    myFunc("4"); output = true
+    myFunc("d"); output = false
