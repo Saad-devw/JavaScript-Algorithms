@@ -67,3 +67,10 @@
     EX:
     myFunc( [1,3,4,5,6,7,8] ); output = 2
     myFunc( [1,3,4,5,7,8,9] ); output = 6
+---
+  13. create a function that finds the dublicated number (app13.js).
+
+    EX:
+    myFunc( [1,2,2,3,4] ); output = 2
+    myFunc( [7,8,9,7] ); output = 7
+---
