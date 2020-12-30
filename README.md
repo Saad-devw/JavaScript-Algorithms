@@ -31,4 +31,8 @@
 
     EX:
     myFunc("hi dear, this is longestWord"); output = 11
+  8. create a function that tchanges the first lettre of each word to upperCase (app8.js).
+
+    EX:
+    myFunc("hi my name is saad"); output = 'Hi My Name Is Saad'
 
