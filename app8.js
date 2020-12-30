@@ -15,4 +15,4 @@ function upperCaseFirstChar(str){
   return myString;
 }
 
-console.log(upperCaseFirstChar("hi my name is saad"));
+console.log(upperCaseFirstChar("hi my name is saad")); //Hi My Name Is Saad
