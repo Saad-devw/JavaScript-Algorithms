@@ -15,7 +15,7 @@
     myFunc(15); output = 'fizzbuzz'
     myFunc(1); output = 'none'
 
-  4. write a function that returns the Factorial of a given number
+  4. write a function that returns the Factorial of a given number (app4.js).
 
     EX:
     5! = 1 * 2 * 3 * 4 * 5 = 120
