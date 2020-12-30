@@ -1,5 +1,5 @@
-function concat(first,sec){
-  return first+' '+sec;
+function concatfunc(first,second){
+  return "hi, my name is : ".concat(first," ",second);
 }
 
-console.log(concat('saad','essadiki'));
+console.log(concatfunc('saad','essadiki'));
