@@ -13,5 +13,14 @@ function fizzBuzz(number){
   }
 }
 
-var result = fizzBuzz();
-console.log(result);
+var result = fizzBuzz(3);
+console.log(result); //fizz
+
+result = fizzBuzz(5);
+console.log(result); //buzz
+
+result = fizzBuzz(15);
+console.log(result); //fizzbuzz
+
+result = fizzBuzz(1);
+console.log(result); //none
