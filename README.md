@@ -74,3 +74,8 @@
     myFunc( [1,2,2,3,4] ); output = 2
     myFunc( [7,8,9,7] ); output = 7
 ---
+  14. create a function that calculates the sum of all digits in the string (app14.js).
+
+    EX:
+    myFunc("I was born in 1999, so i'm 21 years old today"); output = (1999 + 21) 2020
+---
