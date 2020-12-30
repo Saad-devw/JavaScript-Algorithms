@@ -23,4 +23,8 @@
 
     EX:
     myFunc('ABCD'); output = 'DCBA'
+  6. create a function that tells if a string is palindrom and rejects all special characters at the string(app6.js).
+
+    EX:
+    myFunc("./my age ega ym_"); output = true
 
