@@ -79,3 +79,8 @@
     EX:
     myFunc("I was born in 1999, so i'm 21 years old today"); output = (1999 + 21) 2020
 ---
+  15. create function that returns the first duplicate number (app15.js).
+
+    EX:
+    myFunc([1,2,3,2,3]); output = 2
+    myFunc([1,6,3,1,6]); output = 6
