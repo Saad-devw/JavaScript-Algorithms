@@ -13,8 +13,8 @@ function reverseit(string){
  return newString;
 }
 
-console.log(reverseit('abc'));
-console.log(reverseit('abc'));
+console.log(reverseit('abc')); //cba
+console.log(reverseit('xyz')); //zyx
 
 /******       second way     *********/
 
