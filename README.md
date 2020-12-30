@@ -55,3 +55,9 @@
     myFunc("4"); output = true
     myFunc("d"); output = false
 ---
+  11. write a function that checks the time syntax entred by a user if it's valid or not (app11.js).
+
+    EX:
+    myFunc("22:54"); output = true
+    myFunc("00:02"); output = true
+    myFunc("24:70"); output = false
