@@ -13,6 +13,6 @@ function isPalindrome(word){
   return 0;
 }
 
-console.log(isPalindrome("*/.my age ega ym"));
-console.log(isPalindrome("*/._--00)'(00/++"));
-console.log(isPalindrome("*this is false*"));
+console.log(isPalindrome("*/.my age ega ym")); //true
+console.log(isPalindrome("*/._--00)'(00/++")); //true
+console.log(isPalindrome("*this is false*")); //false
