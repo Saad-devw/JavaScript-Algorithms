@@ -13,6 +13,8 @@
     myFunc(3); output = 'fizz'
     myFunc(5); output = 'buzz'
     myFunc(15); output = 'fizzbuzz'
+    myFunc(1); output = 'none'
+
   4. write a function that returns the Factorial of a given number
 
     EX:
