@@ -61,3 +61,9 @@
     myFunc("22:54"); output = true
     myFunc("00:02"); output = true
     myFunc("24:70"); output = false
+---
+  12. write a function that takes in an array of numbers and finds the missing number between 0 and the largest number at the array (app12.js).
+
+    EX:
+    myFunc( [1,3,4,5,6,7,8] ); output = 2
+    myFunc( [1,3,4,5,7,8,9] ); output = 6
