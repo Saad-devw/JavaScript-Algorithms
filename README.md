@@ -27,4 +27,8 @@
 
     EX:
     myFunc("./my age ega ym_"); output = true
+  7. create function that returns the length of the longest word in a string (app7.js).
+
+    EX:
+    myFunc("hi dear, this is longestWord"); output = 11
 
