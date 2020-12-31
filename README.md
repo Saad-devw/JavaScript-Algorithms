@@ -84,3 +84,8 @@
     EX:
     myFunc([1,2,3,2,3]); output = 2
     myFunc([1,6,3,1,6]); output = 6
+---
+  16. create function that amend a sentence (app16.js).
+    
+    EX:
+    myFunc("HiDearMyNameIsSaad"); output = 'hi dear my name is saad'
